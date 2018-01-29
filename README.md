@@ -1,2 +1,5 @@
 # hello-world
-A tutor repository
+
+Learn how to use the gitHub
+
+29/1/2018
